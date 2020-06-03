@@ -1,2 +1,0 @@
-# begin-mahaim
-Begin app
